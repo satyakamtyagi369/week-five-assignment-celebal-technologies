@@ -7,7 +7,7 @@ The project uses Node.js, Express.js, and MongoDB for backend operations. MongoD
 
 Installation
 Clone the repository
-git clone https://github.com/your-username/mongodb-user-crud.git
+https://github.com/satyakamtyagi369/week-five-assignment-celebal-technologies/tree/main
 cd mongodb-user-crud
 Install dependencies
 
